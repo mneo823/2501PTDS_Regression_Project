@@ -80,10 +80,6 @@ conda create --name <env>
 ### This is how you activate the virtual environment in a terminal and install the project dependencies
 
 ```bash
-# activate the virtual environment
-conda activate <env>
-# install the pip package
-conda install pip
 # install the requirements for this project
 pip install -r requirements.txt
 ```
@@ -92,10 +88,8 @@ pip install -r requirements.txt
 
 | Name                                                                                        |  Email              
 |---------------------------------------------------------------------------------------------|--------------------             
-| [Jana Liebenberg-Fouche](https://github.com/Jana-Liebenberg)                                | jliebenberg-fouche@sandtech.com
-| [Edmund Dotsey](https://github.com/Edotsey)                                                 | edotsey@sandtech.com
-| [Farayi Myambo](https://github.com/Farayi-Explore)                                          | fmyambo@sandtech.com
-
+| [Neo Molitsane](https://github.com/mneo823)                                | Neo.Molitsane@absa.africa
+| [Thabang Mathebula](https://github.com/thabanglwazi)                                                 | Thabang.Mathebula@absa.africa
 
 
 #### Additional Resources to create a README file:
