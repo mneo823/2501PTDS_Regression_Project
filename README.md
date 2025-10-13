@@ -64,7 +64,15 @@ Forestland is the only feature that exhibits negative emissions due to its role 
 To carry out all the objectives for this repo, the following necessary dependencies were loaded:
 + `Pandas 2.2.2` and `Numpy 1.26`
 + `Matplotlib 3.8.4`
- 
++ `Seaborn 0.12.2`
++ `Scipy 1.11.0`
++ `Kagglehub 0.2.0`
++ `Openpyxl 3.1.5`
++ `Plotly 5.0.0`
++ `Jupyter 1.0.0`
++ `Scikit-learn 1.2.2`
++ `Statsmodels 0.14.2`
++ `Joblib 1.4.1`
 
 ## 4. Environment <a class="anchor" id="environment"></a>
 
